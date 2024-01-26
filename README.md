@@ -28,7 +28,7 @@
 I am a student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width= "30" >.
 
 - :seedling: Exploring AWS.
-- :zap: In my free time, I solve problems on DSA and post it on my github repository. 
+- :zap: I solve DSA problems and post solutions to that on my github repository. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pandita-b7229b281/)
 
   
