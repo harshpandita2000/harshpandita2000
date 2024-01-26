@@ -54,6 +54,7 @@ I am a student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshpandita2000&theme=react-dark)](https://github.com/harshpandita2000/github-readme-activity-graph)
 
 
 
