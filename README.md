@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey! there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHUB Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
+ 
 </h1>
   <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,24 +24,23 @@
 - - -
 
 
-### :technologist: About Me : I am a student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width= "30" >.
+### :technologist: About Me : 
+I am a student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width= "30" >.
 
 - :seedling: Exploring AWS.
 - :zap: In my free time, I solve problems on DSA and post it on my github repository. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pandita-b7229b281/)
 
+  
+
 - - -
 ### :hammer_and_wrench: Languages and Tools : 
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>&nbsp;
-
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="50"/>&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40"/>&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" width="40" height="50"/>&nbsp;
+<div class="icon-container">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" width="90" height="90" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-plain.svg" width="90" height="90" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="90" height="90" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="140" height="140" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" width="160" height="160" />
 </div>
 
 
@@ -54,7 +53,7 @@
 
 - - -
 
-### :laughing: Joke of the day:
+### :laughing: Jokes:
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"/>
 
 
