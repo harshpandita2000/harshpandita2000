@@ -43,9 +43,24 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### :hammer_and_wrench: Languages and Tools
 
-<div align="center">
+<div style="display: inline_block"><br>
  
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,aws,mysql&perline=20"/>
+  <img height="40" align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="40" align="center" alt="Cpp" height="30" width="40" src="https://skillicons.dev/icons?i=cpp"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" align="center" alt="python" height="30" width="40" src="https://skillicons.dev/icons?i=python"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" align="center" alt="html" height="30" width="40" src="https://skillicons.dev/icons?i=html"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" align="center" alt="aws" height="30" width="40" src="https://skillicons.dev/icons?i=aws"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" align="center" alt="mysql" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" align="center" alt="vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+  
 </div>
 
 ---
@@ -55,6 +70,9 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000)](https://github.com/anuraghazra/github-readme-stats)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark" />
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshpandita)
+<br>
+</br>
+![Snake animation](https://github.com/harshpandita2000/harshpandita2000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
