@@ -72,7 +72,7 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshpandita)
 <br>
 </br>
-![Snake animation](https://github.com/harshpandita2000/harshpandita2000/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
