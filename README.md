@@ -72,6 +72,13 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshpandita)
 <br>
 </br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshpandita2000/harshpandita2000/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 ---
