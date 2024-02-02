@@ -69,7 +69,7 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000)](https://github.com/anuraghazra/github-readme-stats)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark" />
-![Leetcode Stats](https://leetcard.jacoblin.cool/harshpandita)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita)](https://github.com/KnlnKS/leetcode-stats)
 <br>
 </br>
 <div align="center">
