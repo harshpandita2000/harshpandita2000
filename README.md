@@ -85,6 +85,7 @@
 
 ### :laughing: Jokes
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" style="width: 800px; height: 600px;">
+
 
 
