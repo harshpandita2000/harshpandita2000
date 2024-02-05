@@ -60,18 +60,16 @@
    <img height="40" align="center" alt="mysql" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" align="center" alt="vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
 ---
 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000)](https://github.com/anuraghazra/github-readme-stats)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark" />
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast&card_width=600)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark&card_width=600" />
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita&theme=dark&card_width=600)](https://github.com/KnlnKS/leetcode-stats)
 <br>
 </br>
 <div align="center">
