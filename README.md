@@ -16,7 +16,7 @@ new Person({
     email  : 'panditaharsh32@gmail.com',
     website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/(linkedin)',
     married: !!!true,
-}).sayHello();
+}).sayNamaste🙏();
 ```
 <div align="center">
   
@@ -30,15 +30,21 @@ new Person({
 <img src="/assets/horizontal-divider-gradient.gif">
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/harsh___pandita/">
-    <img src="https://img.shields.io/badge/Instagram-B7178c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://leetcode.com/harshpandita/">
-    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge"/>
-  </a>
+       
+<a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height="35"/>
+
+</a>
+<a href="https://www.instagram.com/harsh___pandita/">
+<img src="https://img.shields.io/badge/Instagram-B7178c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="150" height="35"/>
+
+</a>
+<a href="https://leetcode.com/harshpandita/">
+<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="38"/>
+
+
+</a>
+
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
