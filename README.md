@@ -128,7 +128,8 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/footer.svg" width="100%">
 
 <p align="right">
-<i>Last refresh</i> : <b>Tuesday, February 7th, 2024, 01:06:00 AM 
+<i>Last refresh</i> : <b><!-- LAST_REFRESH_TIME --></b>
+</p>
 <img src="/assets/horizontal-divider-gradient.gif">
 <div align="center">
     Made with ❤️ by <a href="https://www.facebook.com/harsh.pandita.16" target="_blank">Harsh Pandita</a>
