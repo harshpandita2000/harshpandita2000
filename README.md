@@ -113,7 +113,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" >
 <img src="/assets/horizontal-divider-gradient.gif"> </div>
 <div align="center">
-    Made with ❤️ by <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/" target="_blank">Harsh Pandita</a>
+    Made with ❤️ by <a href="https://www.facebook.com/harsh.pandita.16" target="_blank">Harsh Pandita</a>
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
