@@ -1,18 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zruQbn0E0eva8/giphy.gif" width="300"/>
-</div>
 
-<div id="badges"> 
-  <a href="https://github.com/harshpandita2000">
-    <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/>
-    <img src="https://img.shields.io/github/followers/harshpandita2000?label=Follow&style=social" alt="GitHub Follow Badge">
-  </a>
+<img src="/assets/horizontal-divider-gradient.gif">
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'India';
+
+new Person({
+    name   : 'Harsh Pandita',
+    title  : 'Student',
+    email  : 'panditaharsh32@gmail.com',
+    website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/(linkedin)',
+    married: !!!true,
+}).sayHello();
+```
+<div align="center">
+  
+ [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/harshpandita2000?label=Followers) ![Stars](https://img.shields.io/github/stars/harshpandita2000?label=Stars)  <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 <h1>
   Hey! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
 </h1>
-
+<img src="/assets/horizontal-divider-gradient.gif">
+<h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,7 +45,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
+<img src="/assets/horizontal-divider-gradient.gif">
 
 ### :technologist: About Me
 
@@ -39,7 +55,7 @@
 - :zap: I diligently solve Data Structures and Algorithms problems, presenting detailed solutions on my GitHub repository to contribute to the knowledge-sharing community in computer science and programming.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pandita-b7229b281/)</strong>
 
----
+<img src="/assets/horizontal-divider-gradient.gif">
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -63,7 +79,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
----
+<img src="/assets/horizontal-divider-gradient.gif">
+
 
 ### :fire: My Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast&card_width=600)](https://git.io/streak-stats)
@@ -73,19 +90,25 @@
 <br>
 </br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+
+  <img src="/assets/horizontal-divider-gradient.gif">
+  
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshpandita2000/harshpandita2000/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
 
 
----
+<img src="/assets/horizontal-divider-gradient.gif">
 
 ### :laughing: Jokes
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" style="width: 800px; height: 600px;">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" >
+<img src="/assets/horizontal-divider-gradient.gif">
+<div align="center">
+    Made with ❤️ by <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/" target="_blank">Harsh Pandita</a>
+</div>
 
+<img src="/assets/horizontal-divider-gradient.gif">
 
 
