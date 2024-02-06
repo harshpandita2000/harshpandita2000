@@ -58,7 +58,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <strong>I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width="30">.
 
 - :seedling: Exploring <img height="19" width="30" src="https://skillicons.dev/icons?i=aws" alt="aws"/>
-- :zap: I diligently solve Data Structures and Algorithms problems, presenting detailed solutions on my GitHub repository to contribute to the knowledge-sharing community in computer science and programming.
+- :zap: I diligently solve daily problems on platforms like LeetCode and others, providing detailed solutions on my GitHub repository to contribute to the knowledge-sharing community in computer science and programming.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pandita-b7229b281/)</strong>
 
 <img src="/assets/horizontal-divider-gradient.gif">
