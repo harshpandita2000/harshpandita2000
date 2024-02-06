@@ -125,12 +125,10 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 
 <img src="/assets/horizontal-divider-gradient.gif">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/footer.svg" width="100%">
 
 <p align="right">
-<i>Last refresh</i> : <b>Tuesday, February 7th, 2024, 01:06:00 AM</b>
-
-
+<i>Last refresh</i> : <b>Tuesday, February 7th, 2024, 01:06:00 AM 
 <img src="/assets/horizontal-divider-gradient.gif">
 <div align="center">
     Made with ❤️ by <a href="https://www.facebook.com/harsh.pandita.16" target="_blank">Harsh Pandita</a>
