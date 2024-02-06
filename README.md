@@ -18,9 +18,11 @@ new Person({
     married: !!!true,
 }).sayNamaste🙏();
 ```
+<br></br>
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/> ![Followers](https://img.shields.io/github/followers/harshpandita2000?label=Followers) ![Stars](https://img.shields.io/github/stars/harshpandita2000?label=Stars)  
+<img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt="" width="160"/> <img src="https://img.shields.io/github/followers/harshpandita2000?label=Followers" alt="Followers" width="140"> <img src="https://img.shields.io/github/stars/harshpandita2000?label=Stars" alt="Stars" width="110">
+
 </div>
 
 <h1>
@@ -39,11 +41,8 @@ new Person({
 
 </a>
 <a href="https://leetcode.com/harshpandita/">
-<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="38"/>
-
-
-</a>
-
+<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="38"/></a>
+<br></br>
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
@@ -78,6 +77,7 @@ new Person({
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" align="center" alt="vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <br></br>
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
@@ -96,7 +96,7 @@ new Person({
   
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshpandita2000/harshpandita2000/output/github-contribution-grid-snake.svg" />
-  
+  <br></br>
 </div>
 
 
