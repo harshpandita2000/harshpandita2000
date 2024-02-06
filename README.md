@@ -128,7 +128,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/footer.svg" width="100%">
 
 <p align="right">
-<i>Last refresh</i> : <b><!-- LAST_REFRESH_TIME --></b>
+<i>Last refresh</i> : <b></b>
 </p>
 <img src="/assets/horizontal-divider-gradient.gif">
 <div align="center">
