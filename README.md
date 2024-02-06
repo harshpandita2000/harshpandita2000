@@ -20,7 +20,7 @@ new Person({
 ```
 <div align="center">
   
- [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/harshpandita2000?label=Followers) ![Stars](https://img.shields.io/github/stars/harshpandita2000?label=Stars)  <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/>
+ [![wakatime](https://wakatime.com/badge/user/018d7e9d-e514-4e69-8ca2-622e7fba0e95.svg)](https://wakatime.com/@018d7e9d-e514-4e69-8ca2-622e7fba0e95) ![Followers](https://img.shields.io/github/followers/harshpandita2000?label=Followers) ![Stars](https://img.shields.io/github/stars/harshpandita2000?label=Stars)  <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/>
 
 </div>
 
@@ -39,10 +39,6 @@ new Person({
   <a href="https://leetcode.com/harshpandita/">
     <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
@@ -100,11 +96,12 @@ new Person({
 
 
 <img src="/assets/horizontal-divider-gradient.gif">
+<div align="center">
 
-### :laughing: Jokes
+### :laughing: Jokes :laughing: 
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" >
-<img src="/assets/horizontal-divider-gradient.gif">
+<img src="/assets/horizontal-divider-gradient.gif"> </div>
 <div align="center">
     Made with ❤️ by <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/" target="_blank">Harsh Pandita</a>
 </div>
