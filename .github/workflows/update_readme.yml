@@ -1,24 +1,13 @@
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/15 * * * *'  # Runs every 15 minutes
-jobs:
-  update_readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Update README
-        run: |
-          date > last_refresh_time.txt  # Create a file with the current time
-          sed -i 's//$(cat last_refresh_time.txt)/g' README.md  # Replace placeholder in README
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md last_refresh_time.txt
-          git commit -m "Update README" || echo "No changes to commit"
-          git push
+settings:
+  username: "harshpandita2000"
+  commit_msg: "🔥🚀 README UPDATED! 🚀🔥"
+  max_lines: 0
+  readme_file: "README.md"
+  disabled_events: [event1, event2, event3]
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+05:30"
+    text: "<i>Last refresh</i> : <b>{DATE}</b>"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+commit_name: "Schwifty-Bot"
+ commit_email: "116818502+Schwifty-Bot@users.noreply.github.com" 
