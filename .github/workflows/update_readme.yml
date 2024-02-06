@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Update to version 4
       
       - name: Update README with recent activity
-        uses: Readme-Workflows/recent-activity@main
+        uses: Readme-Workflows/recent-activity@v1  # Update to version 1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
