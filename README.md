@@ -20,8 +20,7 @@ new Person({
 ```
 <div align="center">
   
- [![wakatime](https://wakatime.com/badge/user/018d7e9d-e514-4e69-8ca2-622e7fba0e95.svg)](https://wakatime.com/@018d7e9d-e514-4e69-8ca2-622e7fba0e95) ![Followers](https://img.shields.io/github/followers/harshpandita2000?label=Followers) ![Stars](https://img.shields.io/github/stars/harshpandita2000?label=Stars)  <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/>
-
+<img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt=""/> ![Followers](https://img.shields.io/github/followers/harshpandita2000?label=Followers) ![Stars](https://img.shields.io/github/stars/harshpandita2000?label=Stars)  
 </div>
 
 <h1>
