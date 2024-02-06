@@ -1,13 +1,21 @@
-settings:
-  username: "harshpandita2000"
-  commit_msg: "🔥🚀 README UPDATED! 🚀🔥"
-  max_lines: 0
-  readme_file: "README.md"
-  disabled_events: [event1, event2, event3]
-  url_text: "{REPO}{ID}"
-  date:
-    timezone: "GMT+05:30"
-    text: "<i>Last refresh</i> : <b>{DATE}</b>"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-commit_name: "Schwifty-Bot"
- commit_email: "116818502+Schwifty-Bot@users.noreply.github.com" 
+name: Update README
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Run every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: "./.github/update-readme.config.yml"
