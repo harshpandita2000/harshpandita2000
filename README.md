@@ -103,6 +103,8 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
   
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshpandita2000/harshpandita2000/output/github-contribution-grid-snake.svg" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpandita2000&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
   <br></br>
 </div>
 
@@ -112,12 +114,24 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 
 ### :laughing: Jokes :laughing: 
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" >
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" > <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+
 <img src="/assets/horizontal-divider-gradient.gif"> </div>
 <div align="center">
-    Made with ❤️ by <a href="https://www.facebook.com/harsh.pandita.16" target="_blank">Harsh Pandita</a>
+    <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+    <br>
+    <img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true">
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
+<p align="right">
+<i>Last refresh</i> : <b>Tuesday, February 7th, 2024, 01:06:00 AM</b>
+
+
+<img src="/assets/horizontal-divider-gradient.gif">
+<div align="center">
+    Made with ❤️ by <a href="https://www.facebook.com/harsh.pandita.16" target="_blank">Harsh Pandita</a>
+<img src="/assets/horizontal-divider-gradient.gif">
