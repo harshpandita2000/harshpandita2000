@@ -40,14 +40,15 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height="35"/>
 
-</a>
 <a href="https://www.instagram.com/harsh___pandita/">
 <img src="https://img.shields.io/badge/Instagram-B7178c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="150" height="35"/>
 
-</a>
 <a href="https://leetcode.com/harshpandita/">
-<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="38"/></a>
-<br></br>
+<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="37"/>
+
+<a href="https://www.facebook.com/harsh.pandita.16">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" width="150" height="35"/>
+    
 </div>
 
 <img src="/assets/horizontal-divider-gradient.gif">
