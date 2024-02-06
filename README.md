@@ -90,10 +90,11 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 
 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast&card_width=600)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark&card_width=600" />
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita&theme=dark&card_width=600)](https://github.com/KnlnKS/leetcode-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark" />
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita&theme=dark&card_width=600)](https://github.com/KnlnKS/leetcode-stats).[![GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=harshpandita)](https://auth.geeksforgeeks.org/user/harshpandita/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+
 <br>
 </br>
 <div align="center">
