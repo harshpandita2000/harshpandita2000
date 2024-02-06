@@ -14,10 +14,15 @@ new Person({
     name   : 'Harsh Pandita',
     title  : 'Student',
     email  : 'panditaharsh32@gmail.com',
-    website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/(linkedin)',
-    married: !!!true,
+    website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/,
+    married: !true,
 }).sayNamaste🙏();
 ```
+```cmd
+C:\harshpandita\bio.py>print("About Me")
+Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech degree, is eager to embark on a career journey fueled by academic achievement and technological fervor.
+``````
+
 <br></br>
 <div align="center">
   
