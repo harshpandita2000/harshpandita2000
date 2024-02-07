@@ -40,7 +40,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height="35"/>
 
-<a href="https://www.instagram.com/harsh___pandita/">
+<a href="https://www.instagram.com/harsh_.pandita/">
 <img src="https://img.shields.io/badge/Instagram-B7178c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="150" height="35"/>
 
 <a href="https://leetcode.com/harshpandita/">
