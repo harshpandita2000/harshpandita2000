@@ -37,7 +37,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 <a href="https://drive.google.com/file/d/1e7vAZav7DLNHP7hc_HMznuOI_foSSMkK/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄resume-gray?style=for-the-badge"  width="150" height="35">
+    <img src="https://img.shields.io/badge/📝resume-teal?style=for-the-badge"  width="150" height="35">
 </a>
 
 <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
