@@ -36,7 +36,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <img src="/assets/horizontal-divider-gradient.gif">
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
-<a href="https://drive.google.com/file/d/1e7vAZav7DLNHP7hc_HMznuOI_foSSMkK/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1nwdG8i8u-WN3Lk06Wy6Ju9JMKDDNxkbu/view?usp=sharing">
     <img src="https://img.shields.io/badge/📝resume-teal?style=for-the-badge"  width="150" height="35">
 </a>
 
