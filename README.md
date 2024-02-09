@@ -36,7 +36,10 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 <img src="/assets/horizontal-divider-gradient.gif">
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
-       
+<a href="https://drive.google.com/file/d/1e7vAZav7DLNHP7hc_HMznuOI_foSSMkK/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄resume-gray?style=for-the-badge"  width="150" height="35">
+</a>
+
 <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height="35"/>
 
@@ -48,6 +51,10 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 
 <a href="https://www.facebook.com/harsh.pandita.16">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" width="150" height="35"/>
+<a href="mailto:panditaharsh32@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="150" height="35">
+</a>
+
     
 </div>
 
