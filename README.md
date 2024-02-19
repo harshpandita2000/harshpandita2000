@@ -117,20 +117,6 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 
 
 <img src="/assets/horizontal-divider-gradient.gif">
-<div align="center">
-
-### :laughing: Jokes :laughing: 
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" > <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-
-<img src="/assets/horizontal-divider-gradient.gif"> </div>
-<div align="center">
-    <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
-    <br>
-    <img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true">
-</div>
-
-<img src="/assets/horizontal-divider-gradient.gif">
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/footer.svg" width="100%">
 
