@@ -31,7 +31,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 </div>
 
 <h1>
-  Hey! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
+  Hey!! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
 </h1>
 <img src="/assets/horizontal-divider-gradient.gif">
 <h3 align="center">🤝Connect with Me🤝</h3>
