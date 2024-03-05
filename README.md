@@ -15,7 +15,6 @@ new Person({
     title  : 'Student',
     email  : 'panditaharsh32@gmail.com',
     website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/',
-    married: !true,
 }).sayNamaste🙏();
 ```
 ```cmd
