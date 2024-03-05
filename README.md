@@ -24,6 +24,12 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 ``````
 
 <br></br>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?lines=Python%20Developer;Problem%20Solver;Always%20learning%20new%20things&center=true&width=400&height=50"
+  />
+</p>
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=harshpandita2000&style=flat-square&color=blue" alt="" width="160"/> <img src="https://img.shields.io/github/followers/harshpandita2000?label=Followers" alt="Followers" width="140"> <img src="https://img.shields.io/github/stars/harshpandita2000?label=Stars" alt="Stars" width="110">
