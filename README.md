@@ -40,7 +40,7 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
   Hey!! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
 </h1>
 <img src="/assets/horizontal-divider-gradient.gif">
-<h3 align="center">🤝Connect with Me🤝</h3>
+<h3 align="center">🤝Profiles🤝</h3>
 <div align="center">
 <a href="https://drive.google.com/file/d/1nwdG8i8u-WN3Lk06Wy6Ju9JMKDDNxkbu/view?usp=sharing">
     <img src="https://img.shields.io/badge/📝resume-teal?style=for-the-badge"  width="150" height="35">
