@@ -1,27 +1,30 @@
 
 <img src="/assets/horizontal-divider-gradient.gif">
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets/developer.webp" align="right" width="450">
-</a>
-</picture>
+<p align="center">
+    <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+      <img src="/assets/developer.webp" width="450" height ="450">
+    </a>
+  </p>
 
+
+
+<!--
 ```js
 "use creativity";
 import { Person } from 'India';
 
 new Person({
     name   : 'Harsh Pandita',
-    title  : 'Student',
+    title  : 'Associate Software Engineer',
     email  : 'panditaharsh32@gmail.com',
     website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/',
 }).sayNamaste🙏();
 ```
 ```cmd
 C:\harshpandita\bio.py>print("About Me")
-Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech degree, is eager to embark on a career journey fueled by academic achievement and technological fervor.
+Hi, my name is Harsh Pandita,a Computer Science graduate with a B.Tech degree from JNTUHCEH Hyderabad, is eager to embark on a career journey fueled by academic achievement and technological fervor.
 ``````
-
+//-->
 <br></br>
 
 <p align="center">
@@ -65,11 +68,15 @@ Hi, my name is Harsh Pandita,a recent Computer Science graduate with a B.Tech de
 
 ### :technologist: About Me
 
-<strong>I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width="30">.
+<strong>I am a software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> at <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajA1ZTF1Zjk1dXhoZXV5bmowbDV0cXlsdWplbDd4Y2ZqaHQ5d2ZtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eKleRTvdp0qXR8l3e7/giphy.gif" width="70">from  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width="50">.
+
+<!--
 
 - :seedling: Exploring <img height="19" width="30" src="https://skillicons.dev/icons?i=aws" alt="aws"/>
 - :zap: I diligently solve daily problems on platforms like LeetCode and others, providing detailed solutions on my GitHub repository to contribute to the knowledge-sharing community in computer science and programming.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pandita-b7229b281/)</strong>
+
+//-->
 
 <img src="/assets/horizontal-divider-gradient.gif">
 
