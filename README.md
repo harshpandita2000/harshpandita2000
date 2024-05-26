@@ -68,7 +68,7 @@ Hi, my name is Harsh Pandita,a Computer Science graduate with a B.Tech degree fr
 
 ### :technologist: About Me
 
-<strong>I am a software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> at <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHo4YjN2ZDAxNmIwaWJyZ25taGE0c2NydGZrNm5uMmd1cTJqc2I0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YlBQ7RX7A84F0l8uVt/giphy.gif" width="120">from  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNvdDdrOTl4bWhubzJ0M2VyM2hoOTExZnZvbTh4N2lua2NucDFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.gif" width="70">.
+<strong>I am a software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> at <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHo4YjN2ZDAxNmIwaWJyZ25taGE0c2NydGZrNm5uMmd1cTJqc2I0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YlBQ7RX7A84F0l8uVt/giphy.gif" width="120">from  <img src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/India_240-animated-flag-gifs.gif" width="100">.
 
 <!--
 
