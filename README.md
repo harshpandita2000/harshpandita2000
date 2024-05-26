@@ -125,11 +125,11 @@ Hi, my name is Harsh Pandita,a Computer Science graduate with a B.Tech degree fr
   <br></br>
 </div>
 
-
+<!--
 <img src="/assets/horizontal-divider-gradient.gif">
 
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/footer.svg" width="100%">
-
+//-->
 <img src="/assets/horizontal-divider-gradient.gif">
 <div align="center">
     Made with ❤️ by <a href="https://www.facebook.com/harsh.pandita.16" target="_blank">Harsh Pandita</a>
