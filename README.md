@@ -2,7 +2,7 @@
 <img src="/assets/horizontal-divider-gradient.gif">
 <p align="center">
     <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-      <img src="/assets/developer.webp" width="450" height ="450">
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="450" height ="450">
     </a>
   </p>
 
