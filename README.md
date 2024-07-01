@@ -1,4 +1,6 @@
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/harshpandita2000/count.svg" />
 <img src="/assets/horizontal-divider-gradient.gif">
 <p align="center">
     <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
