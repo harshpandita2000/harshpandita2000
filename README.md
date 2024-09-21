@@ -1,34 +1,7 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/harshpandita2000/count.svg" />
-<img src="/assets/horizontal-divider-gradient.gif">
-<p align="center">
-    <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height ="250">
-    </a>
-  </p>
 
-
-
-<!--
-```js
-"use creativity";
-import { Person } from 'India';
-
-new Person({
-    name   : 'Harsh Pandita',
-    title  : 'Associate Software Engineer',
-    email  : 'panditaharsh32@gmail.com',
-    website: 'https://www.linkedin.com/in/harsh-pandita-b7229b281/',
-}).sayNamaste🙏();
-```
-```cmd
-C:\harshpandita\bio.py>print("About Me")
-Hi, my name is Harsh Pandita,a Computer Science graduate with a B.Tech degree from JNTUHCEH Hyderabad, is eager to embark on a career journey fueled by academic achievement and technological fervor.
-``````
-//-->
-<br></br>
-
+<h1>
+  Hey!! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
+</h1>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?lines=Python%20Developer;Problem%20Solver;Always%20learning%20new%20things&center=true&width=400&height=50"
@@ -40,9 +13,7 @@ Hi, my name is Harsh Pandita,a Computer Science graduate with a B.Tech degree fr
 
 </div>
 
-<h1>
-  Hey!! there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile <img src ="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="45" height="45"/>  
-</h1>
+
 <img src="/assets/horizontal-divider-gradient.gif">
 <h3 align="center">🤝Links to Connect🤝</h3>
 <div align="center"">
@@ -112,7 +83,7 @@ Hi, my name is Harsh Pandita,a Computer Science graduate with a B.Tech degree fr
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandita2000&langs_count=8)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=harshpandita2000&theme=github_dark" />
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita&theme=dark&card_width=600)](https://github.com/KnlnKS/leetcode-stats).[![GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=harshpandita)](https://auth.geeksforgeeks.org/user/harshpandita/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+![Leetcode Stats](https://leetcard.jacoblin.cool/harshpandita)[![GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=harshpandita)](https://auth.geeksforgeeks.org/user/harshpandita/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
 <br>
 </br>
