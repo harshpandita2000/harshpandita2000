@@ -56,7 +56,12 @@
 ### :hammer_and_wrench: Languages and Tools
 
 <div style="display: inline_block"><br>
- 
+
+
+  <img height="40" align="center" alt="C" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s" title="Outsystems"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="C" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuFLrnKLuLgEBJRYVHLzigucrv1SdPFbi7g&s" title="Mendix"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="Cpp" height="30" width="40" src="https://skillicons.dev/icons?i=cpp"/>
