@@ -19,7 +19,7 @@
 <div align="center"">
     <a href="https://drive.google.com/file/d/1nwdG8i8u-WN3Lk06Wy6Ju9JMKDDNxkbu/view?usp=sharing">
         <img src="https://www.reshot.com/preview-assets/icons/RK2HTZ6GUA/resume-RK2HTZ6GUA.svg" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/harsh-pandita-b7229b281/">
+    <a href="https://www.linkedin.com/in/harsh-pandita-dev/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height="30" width="40" /></a>
     <a href="https://www.instagram.com/harsh_.pandita/">
         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Instagram Badge" height="30" width="40" /></a>
