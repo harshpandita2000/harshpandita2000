@@ -55,31 +55,16 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-<div style="display: inline_block"><br>
-
-
-  <img height="40" align="center" alt="C" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s" title="Outsystems"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="C" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuFLrnKLuLgEBJRYVHLzigucrv1SdPFbi7g&s" title="Mendix"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="40" align="center" alt="Cpp" height="30" width="40" src="https://skillicons.dev/icons?i=cpp"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="python" height="30" width="40" src="https://skillicons.dev/icons?i=python"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="java" height="30" width="40" src="https://skillicons.dev/icons?i=java"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="html" height="30" width="40" src="https://skillicons.dev/icons?i=html"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="aws" height="30" width="40" src="https://skillicons.dev/icons?i=aws"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="mysql" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <br></br>
+<div style="display: flex; align-items: center;">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,c,cpp,python,java,html,aws,mysql,vscode&theme=dark" alt="My Skills"/>
+  </a>
+  <img height="46" width="46" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s" />
+  <img height="46"  width="46" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAU2aPAmLsMsTm6FPLYkWxqS9yk3X1ryVTQ&s" />
 </div>
+  
+</div>
+
 
 <img src="/assets/horizontal-divider-gradient.gif">
 
