@@ -59,8 +59,8 @@
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,c,cpp,python,java,html,aws,mysql,vscode&theme=dark" alt="My Skills"/>
   </a>
-  <img height="46" width="46" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s" />
-  <img height="46"  width="46" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAU2aPAmLsMsTm6FPLYkWxqS9yk3X1ryVTQ&s" />
+<!--   <img height="46" width="46" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s" />
+  <img height="46"  width="46" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAU2aPAmLsMsTm6FPLYkWxqS9yk3X1ryVTQ&s" /> -->
 </div>
   
 </div>
